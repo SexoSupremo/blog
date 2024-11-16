@@ -79,7 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
-        'USER': 'postgres.uaniautaodijcwpgdtcb',
+        'USER': 'postgres.ndyfecdlymxeivbkhrsl',
         # el host de tu base de datos
         'HOST': config('SUPABASE_HOST'),
         # la contraseña que utilizaste al crear el proyecto
